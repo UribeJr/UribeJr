@@ -1,6 +1,6 @@
 # 🧇 Enrique Uribe 
 
-**`Digital Maestro (Developer/Designer/Soccer_Coach)`**
+**`Digital Maestro (Developer/Digital Designer)`**
 
 I'm a full-stack developer and graphic designer dedicated to building robust, scalable solutions for businesses. From concept to deployment, I handle every aspect of development, ensuring that each project not only looks great but also solves real-world problems efficiently. With a keen eye for design and a strategic approach to coding, I help businesses thrive in the digital landscape.
 
