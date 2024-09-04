@@ -2,6 +2,8 @@
 
 **`Digital Maestro (Developer/Digital Designer)`**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=d7d977&lines=Full-stack+developer;8%2B+years+of+coding+experience)](https://git.io/typing-svg)
+
 I'm a full-stack developer and graphic designer dedicated to building robust, scalable solutions for businesses. From concept to deployment, I handle every aspect of development, ensuring that each project not only looks great but also solves real-world problems efficiently. With a keen eye for design and a strategic approach to coding, I help businesses thrive in the digital landscape.
 
 <p align="left">
@@ -13,6 +15,8 @@ I'm a full-stack developer and graphic designer dedicated to building robust, sc
          <img alt="linktree" title="My Linktree" src="https://custom-icon-badges.demolab.com/badge/-Linktree-20d690?style=for-the-badge&logo=git-branch&logoColor=white"/></a> 
    </p>
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -23,6 +27,7 @@ I'm a full-stack developer and graphic designer dedicated to building robust, sc
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"/>
 <img align="left" alt="Less CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg"/>
+<img align="left" alt="Shopify" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000"/>
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
@@ -32,6 +37,8 @@ I'm a full-stack developer and graphic designer dedicated to building robust, sc
 <img align="left" alt="Adobe Xd" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"/>
 
 <br />
+
+#
 
 ### 📊 Stats
 
