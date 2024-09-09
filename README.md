@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=d7d977&lines=Full-stack+developer;8%2B+years+of+coding+experience)](https://git.io/typing-svg)
 
-I'm a full-stack developer and graphic designer dedicated to building robust, scalable solutions for businesses. From concept to deployment, I handle every aspect of development, ensuring that each project not only looks great but also solves real-world problems efficiently. With a keen eye for design and a strategic approach to coding, I help businesses thrive in the digital landscape.
+I'm a full-stack developer and digital designer dedicated to building robust, scalable solutions for businesses. From concept to deployment, I handle every aspect of development, ensuring that each project not only looks great but also solves real-world problems efficiently. With a keen eye for design and a strategic approach to coding, I help businesses thrive in the digital landscape.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/enrique-uribe-236579122/" target="_blank">
