@@ -40,9 +40,6 @@ I'm a full-stack developer and digital designer dedicated to building robust, sc
 
 #
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=uribejr&show_icons=true&theme=gruvbox)
 <!--
 **UribeJr/UribeJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
